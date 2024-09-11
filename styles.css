@@ -1,0 +1,16 @@
+#img {
+    border-radius: 200px;
+    align-items: center;
+    box-sizing: border-box;
+    zoom: 100px;
+
+
+}
+#button.hover{
+    background-color: rgb(226, 156, 43);
+
+}
+script{
+    color: aliceblue;
+    
+}
